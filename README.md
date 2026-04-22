@@ -3,6 +3,7 @@
 
 # Watch everywhere
 * Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.
-* Live channels on your Smart TV, tablet, or mobile phone. All in the best quality, without cables, without installation, and with the freedom to watch wherever and whenever you want. 🇧🇷
+* Live channels on your Smart TV, tablet, or mobile phone. All in the best quality, without cables, without installation, and with the freedom to watch wherever and whenever you want. 
 
-# Quer um project so de canais?: https://github.com/vegascfg/TomatoTV
+# Quer um project so de canais? (mais de 100 canais):
+https://github.com/vegascfg/TomatoTV
