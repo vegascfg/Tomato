@@ -10,8 +10,8 @@
 
 # Grande catálogo de filmes, documentários, séries, originais premiados e muito mais. Assista o quanto quiser, quando quiser.
 
-# E adequada para crianças?
-* A experiência infantil faz parte para que as crianças se divirtam em seu próprio espaço com séries e filmes familiares sob a supervisão dos responsáveis.
+# Is it suitable for children?
+* The children's experience is designed so that children can have fun in their own space with family-friendly series and movies under the supervision of adults.
 
 # Quer um project só de canais? (mais de 100 canais):📺👇🏻
 https://github.com/vegascfg/TomatoTV
