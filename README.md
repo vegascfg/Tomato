@@ -10,5 +10,8 @@
 
 # Grande catálogo de filmes, documentários, séries, originais premiados e muito mais. Assista o quanto quiser, quando quiser.
 
+# E adequada para crianças?
+* A experiência infantil faz parte para que as crianças se divirtam em seu próprio espaço com séries e filmes familiares sob a supervisão dos responsáveis.
+
 # Quer um project só de canais? (mais de 100 canais):📺👇🏻
 https://github.com/vegascfg/TomatoTV
